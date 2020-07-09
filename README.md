@@ -2,7 +2,7 @@
 
 #### Job
 
-I am a member of the WWT (https://www.wwt.cokm/) Global Engineering Team and I am focused on Network Programmability.  My background is in professional services delivery of route/switch and data center networking projects, as well as compute, storage, and collaboration solutions.
+I am a member of the WWT (https://www.wwt.com/) Global Engineering Team and I am focused on Network Programmability.  My background is in professional services delivery of route/switch and data center networking projects, as well as compute, storage, and collaboration solutions.
 
 #### Certifications
 
