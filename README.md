@@ -1,4 +1,17 @@
-### Hi there 👋
+### whoami
+
+#### Job
+
+I am a member of the WWT (https://www.wwt.cokm/) Global Engineering Team and I am focused on Network Programmability.  My background is in professional services delivery of route/switch and data center networking projects, as well as compute, storage, and collaboration solutions.
+
+#### Certifications
+
+* CCIE #45731
+
+* Member of the Cisco DevNet 500
+  * Cisco DevNet Professional
+  * Cisco DevNet Associate
+  * Cisco DevNet Specialist
 
 <!--
 **nsthompson/nsthompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
